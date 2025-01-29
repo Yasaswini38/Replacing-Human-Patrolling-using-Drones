@@ -17,7 +17,7 @@ The system is designed to address various critical security challenges by dividi
 Purpose: Detects various objects within the environment, including vehicles, bags, or other items that may need attention.
 Implementation: The drone uses Convolutional Neural Networks (CNN) to analyze live video streams and identify
 ```
-click here "https://github.com/navyasweet/Replacing-human-pactrolling-using-drones/tree/main/Object%20Detection"
+click here "https://github.com/Yasaswini38/Replacing-human-pactrolling-using-drones/tree/main/Object%20Detection"
 # OUTPUT:
 ![object detect](https://github.com/user-attachments/assets/ac5a7bb7-aa06-4b63-a07a-fdc9236bb96b)
 
@@ -27,7 +27,7 @@ click here "https://github.com/navyasweet/Replacing-human-pactrolling-using-dron
 Purpose: Identifies violent activities such as fights or assaults that require immediate attention.
 Implementation: Leveraging deep learning and real-time video analysis, the drone detects patterns of violence through motion tracking and behavior recognition.
 ```
-click here "https://github.com/navyasweet/Replacing-human-pactrolling-using-drones/tree/main/Violence%20Detection"
+click here "https://github.com/Yasaswini38/Replacing-human-pactrolling-using-drones/tree/main/Violence%20Detection"
 # OUTPUT :
 ![voilence](https://github.com/user-attachments/assets/21d2fe9e-9f48-4eb5-ab68-d0cd02ef3baa)
 
@@ -37,10 +37,6 @@ click here "https://github.com/navyasweet/Replacing-human-pactrolling-using-dron
 Purpose: Recognizes the presence of humans within the drone’s field of view.
 Implementation: Using pre-trained models, the drone can detect human bodies, track their movements, and report any suspicious activity to enhance safety.
 ```
-click here "https://github.com/navyasweet/Replacing-human-pactrolling-using-drones/tree/main/human%20detection"
-# OUTPUT :
-![human structure](https://github.com/user-attachments/assets/98e29b58-d03f-4d6b-961f-3e657efd8cad)
-![Screenshot 2023-10-04 151153](https://github.com/navyasweet/Live-Object-Detection-OPENCV-/assets/134292286/e598f687-b571-46df-adbc-84d1039d42b6)
 
 
 # Suspicious Action Detection
@@ -48,7 +44,7 @@ click here "https://github.com/navyasweet/Replacing-human-pactrolling-using-dron
 Purpose: Detects any actions or movements that appear unusual or out of place, which could indicate potential security threats.
 Implementation: The system analyzes behavioral patterns and flags suspicious actions, such as loitering or unauthorized movement, ensuring prompt alerts.
 ```
-click here "https://github.com/navyasweet/Replacing-human-pactrolling-using-drones/tree/main/walk-stand-run%20detection"
+click here "https://github.com/Yasaswini38/Replacing-human-pactrolling-using-drones/tree/main/walk-stand-run%20detection"
 # OUTPUT :
 ![suspicious action](https://github.com/user-attachments/assets/c4d97576-dafe-4837-9345-0e515852e08a)
 
